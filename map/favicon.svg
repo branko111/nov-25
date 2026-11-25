@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="30" fill="#1d4ed8"/>
+  <circle cx="32" cy="32" r="28" fill="none" stroke="#fff" stroke-opacity=".25" stroke-width="2"/>
+  <!-- power symbol rotated 180°: the gap and the line point down -->
+  <g transform="rotate(180 32 32)" fill="none" stroke="#fff" stroke-width="5.5" stroke-linecap="round">
+    <path d="M22.1 20.7 A15 15 0 1 0 41.9 20.7"/>
+    <line x1="32" y1="13" x2="32" y2="31"/>
+  </g>
+</svg>
